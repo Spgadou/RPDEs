@@ -1,5 +1,3 @@
-setwd("~/R presentations/Option Pricing")
-
 ## Option pricing using Finite-Element Method (FEM)
 
 ## Packages
